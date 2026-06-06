@@ -46,6 +46,6 @@ A comprehensive web-based Point of Sale and Business Management System designed 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/boyslgaol/laundry-pos
+git clone https://github.com/boyslgaol/laundry-pos.git
 cd laundry-pos
 
